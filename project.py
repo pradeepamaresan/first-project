@@ -1,4 +1,4 @@
-# Simple Calculator Project
+
 
 print("Simple Calculator")
 
